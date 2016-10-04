@@ -1,6 +1,6 @@
 # Numix-Conky :sunny: :umbrella: :cloud: :snowflake: :snowman:
 
-A theme for [conky](https://github.com/brndnmtthws/conky) based on [Harmattan](https://github.com/zagortenay333/Harmattan/) theme powered by [OpenWeatherMap](http://openweathermap.org/).
+A theme for [conky](https://github.com/brndnmtthws/conky) based on [Harmattan](https://github.com/zagortenay333/Harmattan/) powered by [OpenWeatherMap](http://openweathermap.org/).
 
 ---
 
