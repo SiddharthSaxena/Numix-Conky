@@ -53,3 +53,5 @@ Edit the `template9` variable in the `.conkyrc` file to change the language.
 Edit the `template8` variable inside the `.conkyrc` file to change the units.
 
 ---
+
+<img src="" id="preview">
