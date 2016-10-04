@@ -54,4 +54,4 @@ Edit the `template8` variable inside the `.conkyrc` file to change the units.
 
 ---
 
-<img src="" id="preview">
+<img src="http://www.siddharthsaxena.weebly.com/files/theme/Numix-Conky.png" id="preview">
