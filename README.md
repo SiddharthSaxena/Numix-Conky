@@ -14,7 +14,7 @@ A theme for [conky](https://github.com/brndnmtthws/conky) based on [Harmattan](h
 
 ---
 
-####Installation:
+####Installation
 
 * Install **conky**, **curl** and **jq**. `sudo apt-get install conky-all curl jq`
 
@@ -54,4 +54,5 @@ Edit the `template8` variable inside the `.conkyrc` file to change the units.
 
 ---
 
+###Preview
 <img src="http://www.siddharthsaxena.weebly.com/files/theme/Numix-Conky.png" id="preview">
