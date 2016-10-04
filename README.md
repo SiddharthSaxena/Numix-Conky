@@ -16,7 +16,7 @@ A theme for [conky](https://github.com/brndnmtthws/conky) based on [Harmattan](h
 
 ####Installation:
 
-* Install **conky**, **curl** and **jq**.
+* Install **conky**, **curl** and **jq**. (sudo apt-get install conky-all curl jq)
 
 * Make sure you have the **Droid Sans** font installed.
 
