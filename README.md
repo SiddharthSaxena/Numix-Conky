@@ -1,6 +1,6 @@
 # Numix-Conky :sunny: :umbrella: :cloud: :snowflake: :snowman:
 
-A theme for [conky](https://github.com/brndnmtthws/conky) version `1.9.x` powered by [OpenWeatherMap](http://openweathermap.org/).
+A theme for [conky](https://github.com/brndnmtthws/conky) based on [Harmattan](https://github.com/zagortenay333/Harmattan/) theme powered by [OpenWeatherMap](http://openweathermap.org/).
 
 ---
 
@@ -34,7 +34,7 @@ Place the API key in the `template6` variable inside the `.conkyrc`file.
 
 ###City
 
-[Find the ID of your city](http://openweathermap.org/help/city_list.txt) and place it inside the `template7` variable inside the `.conkyrc` file.
+Find the [ID](http://openweathermap.org/help/city_list.txt) of your city and place it inside the `template7` variable inside the `.conkyrc` file.
 
 ---
 
@@ -45,8 +45,6 @@ By default this conky will use your default locale.
 Edit the `template9` variable in the `.conkyrc` file to change the language.
 
 [See the list of supported languages](http://openweathermap.org/current#multi)
-
-**NOTE:** `God-mode` has some hardcoded text that won't get translated, but you can edit it manually.
 
 ---
 
