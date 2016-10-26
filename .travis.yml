@@ -1,2 +1,5 @@
 language: shell
+before_install:
+  - sudo apt-get -qq update
+  - sudo apt-get install -y conky-all curl jq
 script: conky Numix/.conkyrc
