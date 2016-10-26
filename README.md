@@ -1,6 +1,6 @@
 # Numix-Conky :sunny: :umbrella: :cloud: :snowflake: :snowman:
 
-[![Build Status](https://img.shields.io/badge/build-passing-brightgreen.svg?maxAge=3600&&style=flat)](https://github.com/SiddharthSaxena/Numix-Conky)&nbsp;&nbsp;[![Github Release](https://img.shields.io/badge/release-v1.0-red.svg?maxAge=3600&style=flat)](https://github.com/SiddharthSaxena/Numix-Conky/releases/tag/v1.0)&nbsp;&nbsp;[![License](https://img.shields.io/badge/license-GPL-blue.svg?maxAge=3600&&style=flat)](https://github.com/SiddharthSaxena/Numix-Conky/blob/master/LICENSE)
+[![Build Status](https://img.shields.io/badge/build-passing-brightgreen.svg?maxAge=3600&&style=flat)](https://github.com/SiddharthSaxena/Numix-Conky)&nbsp;&nbsp;[![Github Release](https://img.shields.io/badge/release-v1.0-red.svg?maxAge=3600&style=flat)](https://github.com/SiddharthSaxena/Numix-Conky/releases/tag/v1.0)&nbsp;&nbsp;[![License](https://img.shields.io/badge/license-GPL--3.0-blue.svg?maxAge=3600&&style=flat)](https://github.com/SiddharthSaxena/Numix-Conky/blob/master/LICENSE)
 
 A theme for [conky](https://github.com/brndnmtthws/conky) based on [Harmattan](https://github.com/zagortenay333/Harmattan/) powered by [OpenWeatherMap](http://openweathermap.org/).
 
