@@ -14,7 +14,7 @@ A theme for [conky](https://github.com/brndnmtthws/conky) based on [Harmattan](h
 
 ---
 
-####Installation
+###Installation
 
 * Install **conky**, **curl** and **jq**. `sudo apt-get install conky-all curl jq`
 
