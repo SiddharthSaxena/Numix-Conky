@@ -1,2 +1,2 @@
-cat .gitattributes
+$ cat .gitattributes
 *.rb linguist-language=Shell
