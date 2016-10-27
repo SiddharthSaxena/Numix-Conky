@@ -5,6 +5,7 @@ background no
 update_interval 1
 double_buffer yes
 no_buffers yes
+imlib_cache_size 10
 
 draw_shades no
 draw_outline no
