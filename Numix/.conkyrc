@@ -5,7 +5,6 @@ background no
 update_interval 1
 double_buffer yes
 no_buffers yes
-imlib_cache_size 10
 
 draw_shades no
 draw_outline no
@@ -28,7 +27,6 @@ own_window yes
 own_window_type dock  # other options are: override/normal/desktop/panel
 own_window_transparent yes
 own_window_hints undecorate,sticky,skip_taskbar,skip_pager,below
-alignment top_right
 own_window_argb_visual no
 own_window_argb_value 180
 
