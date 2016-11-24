@@ -28,7 +28,6 @@ own_window yes
 own_window_type dock  # other options are: override/normal/desktop/panel
 own_window_transparent yes
 own_window_hints undecorate,sticky,skip_taskbar,skip_pager,below
-alignment top_right
 own_window_argb_visual no
 own_window_argb_value 180
 
@@ -152,7 +151,7 @@ ${color2}${alignr 52}${voffset 7}${execi 300 jq -r .wind.speed ~/.cache/weather.
 #----------------------------------------
 \
 \
-${voffset -117}${font Droid Sans Mono :size=22}${alignc}${color1}${time %I:%M}${font}${color}
+${voffset -117}${font Droid Sans Mono :size=22}${alignc}${color1}${time %I:%M %p}${font}${color}
 ${voffset 4}${font Droid Sans :size=10}${alignc}${color2}${execi 300 LANG=${template9} LC_TIME=${template9} date +"%A, %B %-d"}${font}${color}
 \
 \
