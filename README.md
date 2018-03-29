@@ -61,4 +61,4 @@ Edit the `template8` variable inside the `.conkyrc` file to change the units.
 ### Preview
 
 &nbsp;
-<img src="https://siddharthsaxena.weebly.com/uploads/8/0/5/4/80543950/screenshot-from-2018-03-29-16-40-52_orig.png" id="preview">
+<img src="http://siddharthsaxena.weebly.com/files/theme/numix-conky.png" id="preview">
