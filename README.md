@@ -16,7 +16,7 @@ A theme for [conky](https://github.com/brndnmtthws/conky) based on [Harmattan](h
 
 ---
 
-###Installation
+### Installation
 
 * Install **conky**, **curl** and **jq**. `sudo apt-get install conky-all curl jq`
 
@@ -28,7 +28,7 @@ A theme for [conky](https://github.com/brndnmtthws/conky) based on [Harmattan](h
 
 ---
 
-###API Key
+### API Key
 
 Register a private API key on [OpenWeatherMap](http://openweathermap.org/) to get weather data.
 
@@ -36,13 +36,13 @@ Place the API key in the `template6` variable inside the `.conkyrc`file.
 
 ---
 
-###City
+### City
 
 Find the [ID](http://openweathermap.org/help/city_list.txt) of your city and place it inside the `template7` variable inside the `.conkyrc` file.
 
 ---
 
-###Language
+### Language
 
 By default this conky will use your default locale.
 
@@ -52,13 +52,13 @@ Edit the `template9` variable in the `.conkyrc` file to change the language.
 
 ---
 
-###Units
+### Units
 
 Edit the `template8` variable inside the `.conkyrc` file to change the units.
 
 ---
 
-###Preview
+### Preview
 
 &nbsp;
 <img src="http://www.siddharthsaxena.weebly.com/files/theme/Numix-Conky.png" id="preview">
